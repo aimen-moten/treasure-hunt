@@ -1,14 +1,10 @@
 # Treasure Hunt Game
 
-![Treasure Hunt Banner](https://i.imgur.com/rXgHoHN.png)
-
 Welcome to **Treasure Hunt** - an exciting text-based adventure game where your mission is to find the hidden treasure!
 
 ## Game Overview
 
 In this game, you'll navigate through various challenges, make decisions, and ultimately discover if you can locate the treasure or not. Your choices will determine your fate, so choose wisely!
-
-![Gameplay Screenshot](https://i.imgur.com/5Fw6AG4.png)
 
 ## How to Play
 
@@ -26,14 +22,6 @@ In this game, you'll navigate through various challenges, make decisions, and ul
      - If you select the "yellow" door, you win the game and find the treasure!
      - If you select the "red" door, unfortunately, you lose.
      - If you choose the "blue" door, it's a draw.
-
-## Gameplay Screenshots
-
-Winning Scenario:
-![Winning Scenario](https://i.imgur.com/hH2Yo2g.png)
-
-Losing Scenario:
-![Losing Scenario](https://i.imgur.com/4RBlWxU.png)
 
 ## How to Run
 
